@@ -1,0 +1,4 @@
+.fizzy.yaml
+build/
+*.pkg.tar.zst
+__pycache__/

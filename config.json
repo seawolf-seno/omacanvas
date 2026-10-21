@@ -1,0 +1,16 @@
+{
+  "canvas_url": "https://pacificachristian.instructure.com/",
+  "allowed_hosts": [
+    "instructure.com",
+    "canvas-user-content.com",
+    "inscloudgate.net",
+    "instructuremedia.com"
+  ],
+  "embed_hosts": [
+    "www.youtube-nocookie.com",
+    "www.youtube.com",
+    "player.vimeo.com",
+    "docs.google.com",
+    "drive.google.com"
+  ]
+}

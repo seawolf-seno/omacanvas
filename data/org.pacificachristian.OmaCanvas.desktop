@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Canvas
+Comment=Canvas for Pacifica Christian, without a browser
+Exec=omacanvas
+Icon=omacanvas
+Terminal=false
+Categories=Education;
+StartupWMClass=org.pacificachristian.OmaCanvas
